@@ -4,6 +4,18 @@ ulta-env/
 # 运行状态文件（包含抓取的价格数据）
 prices_state.json
 
+# 爬取生成的数据文件（运行脚本后自动生成，不需要追踪）
+product_catalog.json
+product_list.html
+product_list.txt
+product_grouped.html
+product_analysis_*.txt
+
+# 调试临时文件
+debug_page.html
+debug_card.html
+debug_redken_card.html
+
 # Python 缓存
 __pycache__/
 *.pyc
