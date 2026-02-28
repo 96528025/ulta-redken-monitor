@@ -1,0 +1,15 @@
+# 虚拟环境
+ulta-env/
+
+# 运行状态文件（包含抓取的价格数据）
+prices_state.json
+
+# Python 缓存
+__pycache__/
+*.pyc
+
+# macOS
+.DS_Store
+
+# 环境变量文件（如果以后用到）
+.env
